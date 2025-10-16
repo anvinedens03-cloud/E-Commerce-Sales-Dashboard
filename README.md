@@ -58,7 +58,7 @@ To deliver a powerful visualization tool that simplifies complex sales data and 
 - 🔍 Enabled proactive business decisions with clear data visibility  
 
 screenshot and demos
-show whats dashboard looks like - 
+show whats dashboard looks like - https://github.com/anvinedens03-cloud/E-Commerce-Sales-Dashboard/blob/main/powerbi%20pic.png
 
 
 
